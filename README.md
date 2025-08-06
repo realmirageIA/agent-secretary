@@ -1,4 +1,4 @@
-#Projeto: Agent SecretaryV1.0.0
+# Projeto: Agent SecretaryV1.0.0
 
 ## Objetivo
 Automatizar funções de secretaria executiva via **Zaia.app (Google Calendar API)**, registros em **Supabase** e automação de e-mails via **n8n**.
